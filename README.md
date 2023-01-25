@@ -1,0 +1,1 @@
+# snap-java-project
